@@ -1,0 +1,28 @@
+body {
+    height: 1024px;
+    width: 1440px;
+    background-color: gray;
+}
+
+.div {
+    height: 532px;
+    width: 448px;
+    background-color: white;
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+.button1 {
+   height: 69px;
+   width: 331px;
+   background-color: black;
+   border-radius: 100px;
+}
+
+.button2 {
+    height: 69px;
+    width: 331px;
+    background-color: white;
+    border-radius: 100px;
+    border-color: black;
+ }
